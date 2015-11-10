@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pulsame_veces</string>
+    <string name="boton_text">Pulsame</string>
+
+    <plurals name="num">
+
+        <item quantity="one">Has pulsado %d vez</item>
+        <item quantity="other">Has pulsado %d veces</item>
+    </plurals>
+
+
+</resources>
